@@ -1,0 +1,5 @@
+GPROF,OPTIMIZE,DEVEL_MODE,STATS,dataset,training_inputs_count,runtime,
+yes,-O0,yes,PE,mnist,200,0.544471025466919,
+yes,-O0,yes,PE,emnist,150,1.8658199310302734,
+yes,-O0,yes,PE,cifar10,100,1.2391719818115234,
+yes,-O0,yes,PE,cifar100,5,0.6473979949951172,
